@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Octopus, 8 ways</title>
+    <link>http://localhost:3000/authors/</link>
+    <description>Recent content in Authors on Octopus, 8 ways</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Matthew Cloud 2021</copyright><atom:link href="http://localhost:3000/authors/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
